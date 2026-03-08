@@ -35,7 +35,7 @@
 <!-- 사용한 언어 순위 카드 -->
 <div>
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=eji-dev25&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username5&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true"
     height="160"
   />
   <img
