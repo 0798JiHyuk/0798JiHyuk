@@ -1,14 +1,18 @@
 <!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=120&section=header&text=Welcome+to+JIHYUK's+Github!👋&fontSize=35"/>
 
+
 ## ✉️ Contact
 <p>
   <!-- gmail -->
-  <a href="mailto:jyjjj0329@gachon.ac.kr" target="_blank">
+  <a href="mailto:abc5935@gachon.ac.kr" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <!-- Tistory -->
-  <a href="https://velog.io/@0798_hyuk/posts/"><img src="https://img.shields.io/badge/Tech Blog-orange?style=flat-square&logo=tistory&logoColor=white"/></a>
+
+  <!-- Velog -->
+  <a href="https://velog.io/@0798_hyuk" target="_blank">
+    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+  </a>
 </p>
 
 
