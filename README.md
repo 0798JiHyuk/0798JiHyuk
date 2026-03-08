@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <!-- Tistory -->
-  <a href="https://1devlog.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-orange?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <a href="https://velog.io/@0798_hyuk/posts/"><img src="https://img.shields.io/badge/Tech Blog-orange?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
 
