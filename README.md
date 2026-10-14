@@ -1,6 +1,11 @@
-<!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=120&section=header&text=Welcome+to+JIHYUK's+Github!👋&fontSize=35"/>
+# 안녕하세요, 김지혁입니다 👋
 
+일상에서 발견한 불편을 직접 해결하는 웹 서비스를 만들고자 합니다.
+프론트엔드와 백엔드를 함께 공부하며, 사용자의 행동이 화면과 서버를 거쳐 처리되는 전체 흐름에 관심을 두고 있습니다.
+
+- **Frontend** · 이해하기 쉬운 화면과 자연스러운 사용자 흐름을 고민합니다.
+- **Backend** · 화면에 필요한 API와 데이터 처리, 외부 서비스 연동을 공부합니다.
+- **문제 해결** · 기능을 만든 이유와 구현 과정에서의 선택을 기록하고자 합니다.
 
 ## ✉️ Contact
 <p>
@@ -39,11 +44,11 @@
 <!-- 사용한 언어 순위 카드 -->
 <div>
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username5&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=0798JiHyuk&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true"
     height="160"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yji-dev25&layout=compct"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0798JiHyuk&layout=compact"
     height="160"
   />
 </div>
